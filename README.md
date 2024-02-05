@@ -7,4 +7,5 @@ KEY HIGHLIGHTS
 - Created slicers to interact and visualise the data
 
 
-LINK- https://www.canva.com/design/DAF75l3hd20/naMEO_J3-tCrw0XpJCDoyA/view?utm_content=DAF75l3hd20&utm_campaign=designshare&utm_medium=link&utm_source=editor
+LINK- 
+https://www.canva.com/design/DAF76wtR_0k/mDP1fz_IZFqD1a5cWujdpA/view?utm_content=DAF76wtR_0k&utm_campaign=designshare&utm_medium=link&utm_source=editor

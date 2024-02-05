@@ -6,6 +6,8 @@ KEY HIGHLIGHTS
 
 - Created slicers to interact and visualise the data
 
+EXCEL LINK-
+https://drive.google.com/drive/folders/1Y7rAJdm3MK78z_bQfe5RFkjIndHTc65F
 
-LINK- 
-https://www.canva.com/design/DAF76wtR_0k/mDP1fz_IZFqD1a5cWujdpA/view?utm_content=DAF76wtR_0k&utm_campaign=designshare&utm_medium=link&utm_source=editor
+PDF LINK- 
+https://drive.google.com/drive/folders/1Y7rAJdm3MK78z_bQfe5RFkjIndHTc65F

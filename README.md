@@ -7,7 +7,7 @@ KEY HIGHLIGHTS
 - Created slicers to interact and visualise the data
 
 EXCEL LINK-
-https://drive.google.com/drive/folders/1Y7rAJdm3MK78z_bQfe5RFkjIndHTc65F
+https://docs.google.com/spreadsheets/d/1LjpcZisRAxtyh5Ibpka3U0VoYim7KDypujGBmrdaDIw/edit?usp=drivesdk
 
 PDF LINK-
-https://drive.google.com/drive/folders/1zYjaGkz4Asu8FzOspuDYyFo0KJFwohHT
+https://drive.google.com/file/d/1zco3ABDfdhIMSv9SCgkmKpDjgZ3oNRsW/view?usp=drivesdk
